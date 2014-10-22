@@ -1,4 +1,4 @@
 synqafrica
 ==========
 
-Code for synq africa
+Code for pushing and pulling sms and managing the sms gateway
